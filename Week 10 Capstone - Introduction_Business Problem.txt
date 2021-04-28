@@ -1,0 +1,10 @@
+﻿Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+
+
+________________
+
+
+
+
+Problem:
+        You decide you want to relocate to Washington state but which city is best? Since this can be answered in many ways, let’s focus on population size. Which cities are the largest? Which cities have the most population growth in recent years? Are there any common trends between the larger cities vs the smaller cities?
